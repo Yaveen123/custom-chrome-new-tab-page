@@ -1,4 +1,4 @@
-const DEFAULT_SEARCH_URL = "https:///www.duckduckgo.com/?q=";
+const DEFAULT_SEARCH_URL = "https:///www.bing.com/?q=";
 
 // handler function for the search form
 function search() {
